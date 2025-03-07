@@ -25,26 +25,18 @@
 
 <h2>Respostas:</h2>
 
-1 - Em uma empresa o objetivo principal é o lucro. Já em uma instituição o foco é o a pessoa.
-
-2 - Não, a comunicação e o planejando, visto que com uma otima comunição e planejamentos bem estruturados é possivel evitar falhas de comunicação e alguns erros/equivocos.
-
-3 - Conseguir levar a equipe para o sucesso, inspirar, motivar e influenciar os integrantes.
-
-4 - Todos, vistos que todos os papeis presentes na equipe são importantes.
-
-5 - Prestar atenção.
-
-6 - Motivo é o que te faz fazer algo e a justificativa é um tentativa de colocar razão na ação.
-
-7 - 1. Ruim, pois ambos os lados podem sair perdendo;
-    2. Mais ou menos, pois poderia ter investido tempo melhorando;
-    3. Mais ou menos, pois ainda é uma entrega, mas não está 100% completa;
+1. Em uma empresa o objetivo principal é o lucro. Já em uma instituição o foco é o a pessoa.
+2. Não, a comunicação e o planejando, visto que com uma otima comunição e planejamentos bem estruturados é possivel evitar falhas de comunicação e alguns erros/equivocos.
+3. Conseguir levar a equipe para o sucesso, inspirar, motivar e influenciar os integrantes.
+4. Todos, vistos que todos os papeis presentes na equipe são importantes.
+5. Prestar atenção.
+6. Motivo é o que te faz fazer algo e a justificativa é um tentativa de colocar razão na ação.
+7.
+    - Ruim, pois ambos os lados podem sair perdendo;   
+    - Mais ou menos, pois poderia ter investido tempo melhorando;    
+    - Mais ou menos, pois ainda é uma entrega, mas não está 100% completa;    
     
-8 - O mais desafiador é o "Tarefas complexas com um prazo curto".
-
-9 - Uma mistura das duas tarefas para que ambos os lados consigam sair ganhando, pois quem necessita de mais atenção vai precisar estudar para superar os desafios e os que já sabem podem compartilhar seu conhecimento. 
-
-10 - Compartilhar conhecimentos, conversas produtivas para que mesmo em tempo livre o tempo de sobra seja investido em algo produtivo.
-
-11 - Estabelecer metas para curto e longo prazo, as conversas diarias que trazem a troca de saberes e um impulso para se manter firme.
+8. O mais desafiador é o "Tarefas complexas com um prazo curto".
+9. Uma mistura das duas tarefas para que ambos os lados consigam sair ganhando, pois quem necessita de mais atenção vai precisar estudar para superar os desafios e os que já sabem podem compartilhar seu conhecimento. 
+10. Compartilhar conhecimentos, conversas produtivas para que mesmo em tempo livre o tempo de sobra seja investido em algo produtivo.
+11. Estabelecer metas para curto e longo prazo, as conversas diarias que trazem a troca de saberes e um impulso para se manter firme.
