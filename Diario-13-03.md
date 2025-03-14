@@ -1,0 +1,1 @@
+Dart é Null Safety, salvo do nulo, qualquer variavel em dart não pode ser nulo. Outra vantagem é a questão de mostrar os erros na hora de compilação ele facilita para identificar erros no codigo, antes mesmo de executar. Também é importante a organização de pastas e arquivos, os padrões de nomenclatura como SnakeCase, CamelCase.
